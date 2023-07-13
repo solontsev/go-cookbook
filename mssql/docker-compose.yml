@@ -1,0 +1,10 @@
+services:
+  mssql2022:
+    image: mcr.microsoft.com/mssql/server:latest
+    ports:
+      - "1433:1433"
+    environment:
+      ACCEPT_EULA: Y
+      MSSQL_USER: SA
+      MSSQL_SA_PASSWORD: 'myStrong(!)Password'
+      MSSQL_PID: Developer

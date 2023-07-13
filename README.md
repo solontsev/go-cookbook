@@ -7,9 +7,8 @@ A comprehensive collection of practical code recipes for the Go language. It's i
 
 ## Databases
 * [DuckDB](duckdb/README.md)
+* [MS SQL Server](mssql/README.md)
 
 [//]: # (* MySQL)
-
-[//]: # (* MS SQL Server)
 
 [//]: # (* PostgreSQL)
