@@ -1,5 +1,5 @@
 services:
-  mssql2022:
+  mysql:
     image: mysql:latest
     ports:
       - "3306:3306"
