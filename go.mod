@@ -20,6 +20,7 @@ require (
 	github.com/jcmturner/gokrb5/v8 v8.4.4 // indirect
 	github.com/jcmturner/rpc/v2 v2.0.3 // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
+	github.com/lib/pq v1.10.9 // indirect
 	github.com/marcboeker/go-duckdb v1.4.1 // indirect
 	github.com/microsoft/go-mssqldb v1.3.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
